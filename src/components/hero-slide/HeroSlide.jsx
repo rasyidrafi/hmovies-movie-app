@@ -101,7 +101,7 @@ const HeroSlideItem = (props) => {
           <div className="btns">
             <Button
               onClick={() =>
-                history.push(`/${Config.HOME_PAGE}/movie/` + item.id)
+                history.push(`/movie/` + item.id)
               }
             >
               Watch now

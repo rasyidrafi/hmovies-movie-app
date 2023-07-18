@@ -14,11 +14,11 @@ const headerNav = [
   },
   {
     display: "Movies",
-    path: `/${Config.HOME_PAGE}/movie`,
+    path: `/movie`,
   },
   {
     display: "TV Series",
-    path: `/${Config.HOME_PAGE}/tv`,
+    path: `/tv`,
   },
 ];
 
